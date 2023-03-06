@@ -9,6 +9,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/abc](https://www.facebook.com/profile.php?id=100009679218471)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/tu-le-web3/)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@tuleWeb3) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tule24&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=tule24&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tule24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tule24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tule24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
